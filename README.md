@@ -1,5 +1,5 @@
 # Motion_Disentangling
-Self-Supervised Approach to Disentangle Motions in Videos
+Self-Supervised Approach to Disentangle Motions in Videos. More details can be found in our paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
 
 
