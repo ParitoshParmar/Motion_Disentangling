@@ -2,6 +2,8 @@
 Self-Supervised Approach to Disentangle Motions in Videos. More details can be found in our paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
 
+<p align="left"> <img src="https://raw.githubusercontent.com/ParitoshParmar/Fitness-AQA/main/imgs/approach_md.gif" alt="motion_disentangling" width="400"/> </p>
+
 
 If you find our work useful, please consider citing:
 ```
